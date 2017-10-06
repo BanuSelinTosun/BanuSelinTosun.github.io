@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Welcome to BanuSelinTosun Personal Page
 
-You can use the [editor on GitHub](https://github.com/BanuSelinTosun/BanuSelinTosun.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You can see my recent repo the [editor on GitHub](https://github.com/BanuSelinTosun/street-smart) on Real Estate housing prices. For this project, I used AWS EC2 instances to Grid Search the best regressor model with the minimum median absolute percent error. The best result achieved via Gradient Boosting Regressor with 11.3 MAPE. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## PATENTS 
 
-### Markdown
+  *	Eray Aydil, David Norris, Ankur Khare, **Banu Selin Tosun**, and Andrew Wills, “Metal Chalcogenides and Methods of Making and Using the Same,” U.S. Patent, US 61/434854 P
+  *	Eray Aydil, Stephen A. Campbell, Rebekah Feist, and **Banu Selin Tosun**, “Optoelectronic Devices with Thin Barrier Films with Crystalline Characteristics that are Conformally Coated onto Complex Surfaces to Provide Protection Against Moisture,” U.S. Patent Application Number 61514133
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## First Author Publications
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BanuSelinTosun/BanuSelinTosun.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+  * “Enhanced Carrier Lifetimes of MAPbI3 via Vapor Equilibrated Annealing”, J. Phys. Chem. Lett. 6 (13), 2503-2508 (2015)
+  * “Efficient Continuous-Flow Chemical Bath Deposition of CdS Films as Buffer Layers for Chalcogenide-Based Solar Cells”, IEEE 39th PVSC Conference, 1192-1194 (2013)
+  * “Cu2ZnSnS4 Nanocrystal Dispersions in Polar Solvents,” Chem. Commun. 4, 3549-3552 (2013)
+  * “Structure and Composition of Zn(1-x)Cd(x)S Films Synthesized Through Chemical Bath Deposition,” ACS Appl.  Mater. Interfaces 4, 3676-3684 (2012)
+  * “Tin Dioxide as an Alternative Window Layer for Improving the Damp-Heat Stability of Copper Indium Gallium Diselenide Solar Cells,” J. Vac. Sci. Technol. A 30, 04D101 (2012)
+  * “Improving the Damp-Heat Stability of Copper Indium Gallium Diselenide Solar Cells with a Semicrystalline Tin Dioxide Overlayer,” Sol. Energy Mater. Sol. Cells 101, 270-276 (2012)
+  * “Sputter Deposition of Semicrystalline Tin Dioxide Films,” Thin Solid Films 520, 2554 – 2561 (2012)
