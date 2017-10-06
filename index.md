@@ -1,5 +1,20 @@
 ## Welcome to BanuSelinTosun Personal Page
 
+### Banu Selin Tosun Resume:
+  
+  * Data scientist with a detailed understanding of mathematics and applied statistics in a Python environment, with 9+ years of experience in materials research, development, and manufacturing
+  * Hands-on experience working with big data, with a focus on finding meaningful conclusions 
+  * Experience in experiment design
+  * Experience in explaining and presenting results in context
+
+### Technical Skills
+
+  *	Data science & analysis expertise using Python (pandas, NumPy, scikit-learn), Matlab, and SQL well-versed in machine learning algorithms
+  * Git, Spark, Hadoop, QGIS, and basic knowledge of HTML, JavaScript, & CSS
+  * Material characterization and processing expertise in both research and manufacturing environments 
+
+## Data Science Projects
+
 You can see my recent repo the [editor on GitHub](https://github.com/BanuSelinTosun/street-smart) on Real Estate housing prices. For this project, I used AWS EC2 instances to Grid Search the best regressor model with the minimum median absolute percent error. The best result achieved via Gradient Boosting Regressor with 11.3 MAPE. 
 
 ## PATENTS 
