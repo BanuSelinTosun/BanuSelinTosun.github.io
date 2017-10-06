@@ -1,5 +1,10 @@
 ## Welcome to Selin Tosun Personal Page
 
+### Professional Websites:
+  * [LinkedIn Profile](https://www.linkedin.com/in/b-selin-tosun/)
+  * [Talent Profile](https://talent.galvanize.com/students/1700)
+  * [Github Profile](https://github.com/BanuSelinTosun)
+
 ### Profile
   
   * Data scientist with a detailed understanding of mathematics and applied statistics in a Python environment, with 9+ years of experience in materials research, development, and manufacturing
