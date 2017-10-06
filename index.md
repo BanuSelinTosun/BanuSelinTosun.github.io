@@ -1,4 +1,4 @@
-## Welcome to BanuSelinTosun Personal Page
+## Welcome to Selin Tosun Personal Page
 
 ### Profile
   
