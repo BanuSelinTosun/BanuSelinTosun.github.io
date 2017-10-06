@@ -1,6 +1,6 @@
 ## Welcome to BanuSelinTosun Personal Page
 
-### Banu Selin Tosun Resume:
+### Profile
   
   * Data scientist with a detailed understanding of mathematics and applied statistics in a Python environment, with 9+ years of experience in materials research, development, and manufacturing
   * Hands-on experience working with big data, with a focus on finding meaningful conclusions 
