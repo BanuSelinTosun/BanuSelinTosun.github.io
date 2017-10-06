@@ -17,12 +17,12 @@
 
 You can see my recent repo the [editor on GitHub](https://github.com/BanuSelinTosun/street-smart) on Real Estate housing prices. For this project, I used AWS EC2 instances to Grid Search the best regressor model with the minimum median absolute percent error. The best result achieved via Gradient Boosting Regressor with 11.3 MAPE. 
 
-## PATENTS 
+## Selected Patents 
 
   *	Eray Aydil, David Norris, Ankur Khare, **Banu Selin Tosun**, and Andrew Wills, “Metal Chalcogenides and Methods of Making and Using the Same,” U.S. Patent, US 61/434854 P
   *	Eray Aydil, Stephen A. Campbell, Rebekah Feist, and **Banu Selin Tosun**, “Optoelectronic Devices with Thin Barrier Films with Crystalline Characteristics that are Conformally Coated onto Complex Surfaces to Provide Protection Against Moisture,” U.S. Patent Application Number 61514133
 
-## First Author Publications
+## Selected First Author Publications
 
   * “Enhanced Carrier Lifetimes of MAPbI3 via Vapor Equilibrated Annealing”, J. Phys. Chem. Lett. 6 (13), 2503-2508 (2015)
   * “Efficient Continuous-Flow Chemical Bath Deposition of CdS Films as Buffer Layers for Chalcogenide-Based Solar Cells”, IEEE 39th PVSC Conference, 1192-1194 (2013)
