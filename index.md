@@ -19,7 +19,7 @@
   * Material characterization and processing expertise in both research and manufacturing environments 
 
 ## Data Science Projects
-  * January 2018 [GitHub](https://github.com/BanuSelinTosun/TakeAPic) on analyzing the Facial Expressions. I build an in house CNN model to classify the 7 different expressions using a 55K+ image DB. I used an Nvidia GPU along with TensorFlow, Keras, and Cuda process. 
+  * January 2018 [GitHub](https://github.com/BanuSelinTosun/TakeAPic) on analyzing the Facial Expressions. I build an in house CNN model to classify the 7 different expressions using a 55K+ image DB. I used an Nvidia GPU along with TensorFlow, Keras, and Cuda process on AWS EC2 instance along with 400 GB attached volumes. The confusion matrix showed over 99% accuracy. The misidentified classes were sadness vs fear and anger vs surprise. 
   * September 2017 [GitHub](https://github.com/BanuSelinTosun/street-smart) on Real Estate housing prices. For this project, I used AWS EC2 instances to Grid Search the best regressor model with the minimum median absolute percent error. The best result achieved via Gradient Boosting Regressor with 11.3 MAPE. 
 
 ## Honors and Awards 
