@@ -22,6 +22,20 @@
 
 You can see my recent repo the [on GitHub](https://github.com/BanuSelinTosun/street-smart) on Real Estate housing prices. For this project, I used AWS EC2 instances to Grid Search the best regressor model with the minimum median absolute percent error. The best result achieved via Gradient Boosting Regressor with 11.3 MAPE. 
 
+## Honors and Awards 
+  * 39th Photovoltaic’s Specialist Conference IEEE (Best Poster – Nominated)                                     2013
+  * Minnesota Architectural Foundation’s 2013 Thomas F. Ellerbe Scholarship (Finalist)                           2013
+  * Hysitron Travel Grant – Minnesota AVS Chapter (Best Student Poster Award)                                    2012
+  * AVS Dorothy M. and Earl S. Hoffman Travel Grant                                                              2012
+  * University of Minnesota, Doctoral Dissertation Fellowship                                               2012-2013
+  * AVS Dorothy M. and Earl S. Hoffman Travel Grant                                                              2011
+  * University of Minnesota, Ted Davis Scholarship                                                               2008
+  * Fulbright Scholarship (Declined to accept offer from the University of Minnesota)                            2008
+  * First-Rank Graduation Award from Istanbul Technical University Chem. Eng                                     2007
+  * High Honor List through all semesters                                                                   2003-2008
+  * Republic of Turkey Higher Education Foundation Scholarship (90% tuition)                                2002-2007
+  * Ranked among top 0.6% of more than 1,643,000 candidates who took the National University Entrance Test       2002
+
 ## Selected Patents 
 
   *	Eray Aydil, David Norris, Ankur Khare, **Banu Selin Tosun**, and Andrew Wills, “Metal Chalcogenides and Methods of Making and Using the Same,” U.S. Patent, US 61/434854 P
