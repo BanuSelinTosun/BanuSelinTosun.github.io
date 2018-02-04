@@ -1,5 +1,5 @@
 ## Welcome to Selin Tosun Personal Page
-<img alt="ProfilePicture" src="./Casual.jpg" height="100" width="100" />
+<img alt="ProfilePicture" src="./Casual.jpg" height="300" width="300" />
 
 ### Professional Websites:
   * [LinkedIn Profile](https://www.linkedin.com/in/b-selin-tosun/)
