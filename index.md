@@ -23,6 +23,11 @@
   * January 2018 [GitHub](https://github.com/BanuSelinTosun/TakeAPic) on analyzing the Facial Expressions. I build an in house CNN model to classify the 7 different expressions using a 55K+ image DB. I used an Nvidia GPU along with TensorFlow, Keras, and Cuda process on AWS EC2 instance along with 400 GB attached volumes. The confusion matrix showed over 99% accuracy. The misidentified classes were sadness vs fear and anger vs surprise. 
   * September 2017 [GitHub](https://github.com/BanuSelinTosun/street-smart) on Real Estate housing prices. For this project, I used AWS EC2 instances to Grid Search the best regressor model with the minimum median absolute percent error. The best result achieved via Gradient Boosting Regressor with 11.3 MAPE. 
 
+## Selected Patents 
+
+  *	Eray Aydil, David Norris, Ankur Khare, **Banu Selin Tosun**, and Andrew Wills, “Metal Chalcogenides and Methods of Making and Using the Same,” U.S. Patent, US 61/434854 P
+  *	Eray Aydil, Stephen A. Campbell, Rebekah Feist, and **Banu Selin Tosun**, “Optoelectronic Devices with Thin Barrier Films with Crystalline Characteristics that are Conformally Coated onto Complex Surfaces to Provide Protection Against Moisture,” U.S. Patent Application Number 61514133
+
 ## Honors and Awards 
   * 39th Photovoltaic’s Specialist Conference IEEE (Best Poster – Nominated)                                     2013
   * Minnesota Architectural Foundation’s 2013 Thomas F. Ellerbe Scholarship (Finalist)                           2013
@@ -36,11 +41,6 @@
   * High Honor List through all semesters                                                                   2003-2008
   * Republic of Turkey Higher Education Foundation Scholarship (90% tuition)                                2002-2007
   * Ranked among top 0.6% of more than 1,643,000 candidates who took the National University Entrance Test       2002
-
-## Selected Patents 
-
-  *	Eray Aydil, David Norris, Ankur Khare, **Banu Selin Tosun**, and Andrew Wills, “Metal Chalcogenides and Methods of Making and Using the Same,” U.S. Patent, US 61/434854 P
-  *	Eray Aydil, Stephen A. Campbell, Rebekah Feist, and **Banu Selin Tosun**, “Optoelectronic Devices with Thin Barrier Films with Crystalline Characteristics that are Conformally Coated onto Complex Surfaces to Provide Protection Against Moisture,” U.S. Patent Application Number 61514133
 
 ## Selected First Author Publications
 
