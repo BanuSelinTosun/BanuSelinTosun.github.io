@@ -1,4 +1,3 @@
-## Welcome to Selin Tosun Personal Page
 <img alt="ProfilePicture" src="./Casual.jpg" height="200" width="200" />
 
 ### Professional Websites:
