@@ -2,7 +2,13 @@
 
 <img alt="ProfilePicture" src="./BanuSelinTosun.jpg" height="200" width="200" />
 
+_**Currently:**_ Insight Data Science Fellow
+
+[Contact me](mailto:selin.tosun@gmail.com)
+
 ### [**Resume**](https://drive.google.com/open?id=1lwDQieCZQSrY914ilw2yYYsCCCNAyepp)
+
+### [**Resume**](BanuSelinTosun-Resume.pdf).
 
 ### Professional Profiles:
   * [LinkedIn Profile](https://www.linkedin.com/in/b-selin-tosun/)
