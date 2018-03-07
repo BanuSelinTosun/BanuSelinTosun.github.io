@@ -1,6 +1,8 @@
 <img alt="ProfilePicture" src="./Casual.jpg" height="200" width="200" />
 
-### Professional Websites:
+### [**Resume**](https://drive.google.com/open?id=1lwDQieCZQSrY914ilw2yYYsCCCNAyepp)
+
+### Professional Profiles:
   * [LinkedIn Profile](https://www.linkedin.com/in/b-selin-tosun/)
   * [Talent Profile](https://talent.galvanize.com/students/1700)
   * [Github Profile](https://github.com/BanuSelinTosun)
