@@ -1,6 +1,6 @@
 # Banu Selin Tosun
 
-<img alt="ProfilePicture" src="./Casual.jpg" height="200" width="200" />
+<img alt="ProfilePicture" src="./BanuSelinTosun.jpg" height="200" width="200" />
 
 ### [**Resume**](https://drive.google.com/open?id=1lwDQieCZQSrY914ilw2yYYsCCCNAyepp)
 
