@@ -6,7 +6,7 @@ _**Currently:**_ Insight Data Science Fellow
 
 [**Contact me:**](mailto:selin.tosun@gmail.com) selin.tosun@gmail.com
 
-### [**Resume**](BanuSelinTosun-Resume.pdf)
+## [Resume](BanuSelinTosun-Resume.pdf)
 
 ### Professional Profiles:
   * [LinkedIn Profile](https://www.linkedin.com/in/b-selin-tosun/)
