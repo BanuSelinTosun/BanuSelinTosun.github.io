@@ -15,7 +15,7 @@ _**Currently:**_ Insight Data Science Fellow
 
 ### Profile
   
-  * Data scientist with a detailed understanding of mathematics and applied statistics in a Python environment, with 9+ years of experience in materials research, development, and manufacturing
+  * Data scientist with a detailed understanding of mathematics and applied statistics in a Python environment, with 9+ years of experience in analytical problem solving
   * Hands-on experience working with big data, with a focus on finding meaningful conclusions 
   * Experience in experiment design
   * Experience in explaining and presenting results in context
