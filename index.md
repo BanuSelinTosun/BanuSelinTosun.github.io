@@ -12,7 +12,7 @@ _**Currently:**_ Insight Data Science Fellow
   * [LinkedIn Profile](https://www.linkedin.com/in/b-selin-tosun/)
   * [Talent Profile](https://talent.galvanize.com/students/1700)
   * [Github Profile](https://github.com/BanuSelinTosun)
-  * [GoogleScholar](https://scholar.google.com/citations?user=ph6QR2IAAAAJ&hl=en)
+  * [GoogleScholar Profile](https://scholar.google.com/citations?user=ph6QR2IAAAAJ&hl=en)
 
 ### Profile
   
