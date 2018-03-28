@@ -41,6 +41,7 @@ _**Currently:**_ Insight Data Science Fellow
   *	Eray Aydil, Stephen A. Campbell, Rebekah Feist, and **Banu Selin Tosun**, “Optoelectronic Devices with Thin Barrier Films with Crystalline Characteristics that are Conformally Coated onto Complex Surfaces to Provide Protection Against Moisture,” U.S. Patent Application Number 61514133
 
 ## Honors and Awards 
+  * IBM Women in Data Science Scholarship                                                                        2017
   * 39th Photovoltaic’s Specialist Conference IEEE (Best Poster – Nominated)                                     2013
   * Minnesota Architectural Foundation’s 2013 Thomas F. Ellerbe Scholarship (Finalist)                           2013
   * Hysitron Travel Grant – Minnesota AVS Chapter (Best Student Poster Award)                                    2012
