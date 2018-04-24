@@ -2,7 +2,7 @@
 
 <img alt="ProfilePicture" src="./BanuSelinTosun.jpg" height="200" width="200" />
 
-_**Currently:**_ Senior Data Scientist at Neal Analytics (working with Microsoft)
+_**Currently:**_ Sr. Data Scientist at Neal Analytics (working with Microsoft)
 
 [**Contact me:**](mailto:selin.tosun@gmail.com) selin.tosun@gmail.com
 
