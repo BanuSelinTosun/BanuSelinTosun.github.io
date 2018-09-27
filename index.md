@@ -6,7 +6,7 @@ _**Currently:**_ Sr. Data Scientist at Neal Analytics (working with Microsoft)
 
 [**Contact me:**](mailto:selin.tosun@gmail.com) selin.tosun@gmail.com
 
-## [Resume](BSelinTosun-Resume.pdf)
+## [Resume](BanuSelinTosun-Resume.pdf)
 ## [Ph.D. Thesis](https://conservancy.umn.edu/bitstream/handle/11299/156287/Tosun_umn_0130E_13915.pdf?sequence=1)
 
 ### Professional Profiles:
