@@ -2,7 +2,7 @@
 
 <img alt="ProfilePicture" src="./BanuSelinTosun.jpg" height="200" width="200" />
 
-_**Currently:**_ Sr. Data Scientist at (FTE) Neal Analytics (working with Lenovo)
+_**Currently:**_ Sr. Data Scientist at Neal Analytics (FTE at Neal & working with Lenovo)
 
 [**Contact me:**](mailto:selin.tosun@gmail.com) selin.tosun@gmail.com
 
