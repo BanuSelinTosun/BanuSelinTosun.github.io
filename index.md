@@ -14,6 +14,7 @@ _**Currently:**_ Sr. Data Scientist at Neal Analytics (working with Microsoft)
   * [Talent Profile](https://talent.galvanize.com/students/1700)
   * [Github Profile](https://github.com/BanuSelinTosun)
   * [GoogleScholar Profile](https://scholar.google.com/citations?user=ph6QR2IAAAAJ&hl=en)
+  * [ResearchGate Profile](https://www.researchgate.net/profile/B_Selin_Tosun/publications)
 
 ### Profile
   
