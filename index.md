@@ -6,7 +6,7 @@ _**Currently:**_ Sr. Data Scientist at Neal Analytics (working with Microsoft)
 
 [**Contact me:**](mailto:selin.tosun@gmail.com) selin.tosun@gmail.com
 
-## [Resume](BanuSelinTosun-DataScientist.pdf)
+## [Resume](BanuSelinTosun_Resume.pdf)
 ## [Ph.D. Thesis](https://conservancy.umn.edu/bitstream/handle/11299/156287/Tosun_umn_0130E_13915.pdf?sequence=1)
 
 ### Professional Profiles:
@@ -18,17 +18,29 @@ _**Currently:**_ Sr. Data Scientist at Neal Analytics (working with Microsoft)
 ### Profile
   
   * Data scientist with a detailed understanding of mathematics and applied statistics in a Python environment, with 10+ years of experience in analytical problem solving
-  * Hands-on experience working with big data, with a focus on finding meaningful conclusions 
+  * Hands-on experience working with big data (Apache Spark) with a focus on finding meaningful conclusions 
   * Experience in experiment design
   * Experience in explaining and presenting results in context
 
 ### Technical Skills
 
-  *	Data science & analysis expertise using Python (pandas, NumPy, scikit-learn), Matlab, and SQL well-versed in machine learning algorithms
-  * Git, Spark, Hadoop, QGIS, and basic knowledge of HTML, JavaScript, & CSS
+  *	Data science & analysis expertise using Python (pandas, NumPy, Seaborn, Scikit-learn, TensorFlow, Caffe2), Spark, SQL, MatLab,
+and well-versed in Machine Learning, Feature Engineering, Experimental Design, Statistical Analysis 
+  * Git, Hadoop, AWS, Azure, QGIS, Horovod, Docker, Octave, AWS, MS Azure, CNTK and basic knowledge of HTML, JavaScript, & CSS
   * Material characterization and processing expertise in both research and manufacturing environments 
 
 ## Data Science Projects
+  * Preventative Maintanance with Lenovo LCE Team
+    - Build end-to-end pipeline for laptop crashes using big data (40 GB daily over the course of 4 months) in Databricks PySpark environment
+    - Developed Hypothesis driven investigation maps to priorities the value and the collection feasibility of necessary data
+    - Formed multi-component solution engine that detects Anomalies and predicts (via Clustering & Classification) fail types
+    - Obtained over 87 % average AUC-PR over the detection of top 10 failure modes
+  
+  * Object Detection and Behavior Detection with Microsoft Azure Media Services
+    - 6 months on POC around object detection algorithms and bench marking of various Tensorflow Model Zoo models on performance and computational power along with cost optimization
+    - Built pipelines to customize trainings and model comparison for end-user in mean Average Precision and Inference time
+    - Developed a distributed training pipeline by Horovod to shorten the training time by number of nodes
+
   * [TakeAPic](http://takeapic.online/) 
     - January 2018 [GitHub](https://github.com/BanuSelinTosun/TakeAPic) on analyzing the Facial Expressions. I build an in house CNN model to classify the 7 different expressions using a 55K+ image DB. I used an Nvidia GPU along with TensorFlow, Keras, and Cuda process on AWS EC2 instance along with 400 GB attached volumes. The confusion matrix showed over 99% accuracy. The misidentified classes were sadness vs fear and anger vs surprise. 
   
